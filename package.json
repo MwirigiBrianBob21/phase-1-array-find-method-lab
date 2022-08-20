@@ -16,5 +16,9 @@
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1"
+  },
+  "dependencies": {
+    "lear": "^1.0.0",
+    "learn": "^0.1.5"
   }
 }
